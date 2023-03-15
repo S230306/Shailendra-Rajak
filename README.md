@@ -1,7 +1,8 @@
 # Shailendra-Rajak
 <h1 align="center">Hi 👋, I'm Shailendra Rajak</h1>
 <h3 align="center">A passionate Software Development Engineering from India</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAdKG-sGvIVauYNVgCZjT0XtDqNjK0sAoww&usqp=CAU">
+<h3 align="center">Open to work in Software Develpment Engineering</h3>
+<img src="https://www.o4opinion.com/wp-content/uploads/2021/09/code-1076536_1280.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s230306&label=Profile%20views&color=0e75b6&style=flat" alt="s230306" /> </p>
 
